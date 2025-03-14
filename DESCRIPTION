@@ -1,8 +1,8 @@
 Package: kbal
 Type: Package
 Title: Kernel Balancing
-Version: 0.1.1
-Date: 2024-10-14
+Version: 0.1.2
+Date: 2025-03-12
 Authors@R: c(person("Chad", "Hazlett", email = "chazlett@ucla.edu", role = c("aut", "cph")),
             person("Ciara", "Sterbenz", email = "cster@g.ucla.edu", role = "aut"),
             person("Erin", "Hartman", email = "ekhartman@ucla.edu", role = "ctb"),
@@ -20,11 +20,11 @@ Maintainer: Borna Bateni <borna@ucla.edu>
 RoxygenNote: 7.2.3
 Encoding: UTF-8
 NeedsCompilation: yes
-Packaged: 2024-10-14 22:36:22 UTC; borna
+Packaged: 2025-03-14 01:23:38 UTC; borna
 Author: Chad Hazlett [aut, cph],
   Ciara Sterbenz [aut],
   Erin Hartman [ctb],
   Alex Kravetz [ctb],
   Borna Bateni [aut, cre]
 Repository: CRAN
-Date/Publication: 2024-10-16 18:10:05 UTC
+Date/Publication: 2025-03-14 09:30:01 UTC
