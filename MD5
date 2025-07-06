@@ -1,9 +1,9 @@
-92cfbcd9d62a07b574b22bc116056d21 *DESCRIPTION
+bd34f4e5bfbc91336d2ba63114e633c9 *DESCRIPTION
 d56fb54142f50b3c31bf438bb360124a *NAMESPACE
-7b547d22c199acb312f640eda2de6890 *NEWS.md
+fee341b1137ee2e909712a0d2e4e727b *NEWS.md
 3c9dacd1610875e65756ae39767b8526 *R/RcppExports.R
 61ae082327a7e97ab1ff326f4aaa6eb8 *R/ebalance.R
-d66963c46e0abd157a06bb2e3451ad46 *R/functions.R
+a9c0f2b304e0da65ad8dd121c78cbce4 *R/functions.R
 40d67749ca36402cca6803c23bb2a6b7 *R/lalondedata.R
 2904b5ab6426709b53ab8bd62f9d3024 *data/lalonde.rda
 b3fb98a613a912e2bbf9d3a6b3ebab6b *man/b_maxvarK.Rd
